@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Wecome to jih portfolio
+          Wecome to jih portfolio thus is were the live priview begins
         </p>
         <a
           className="App-link"
